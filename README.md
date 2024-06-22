@@ -14,7 +14,7 @@
 
 如有更好想法，欢迎提交[issue](https://github.com/sxmwhl/Confucianism-Buddhism-Taoism/issues)讨论。
 
-# 内容列表
+## 内容列表
 
 * [学佛笔记](学佛笔记.md)
 * [学道笔记](学道笔记.md)
