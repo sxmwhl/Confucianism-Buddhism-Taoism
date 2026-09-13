@@ -277,6 +277,33 @@
   source: 十三经注疏（公版）
   public_domain: true
 
+儒家经典/尚书:
+  title: 尚书
+  dynasty: 上古-春秋
+  author: 佚名；孔子 删订
+  category: 五经
+  source: guoxue.my 公版（简体）
+  public_domain: true
+  notes: 含今文尚书与古文尚书合编本，按虞书、夏书、商书、周书分卷
+
+儒家经典/孝经:
+  title: 孝经
+  dynasty: 春秋
+  author: 孔子 撰
+  category: 十三经
+  source: guoxue.my 公版（简体）
+  public_domain: true
+  notes: 十八章，列十三经之一
+
+儒家经典/尔雅:
+  title: 尔雅
+  dynasty: 战国-西汉
+  author: 佚名；西晋 郭璞 注；北宋 邢昺 疏
+  category: 十三经
+  source: guoxue.my 公版（简体）
+  public_domain: true
+  notes: 我国第一部按义类编排的综合性辞书
+
 儒家经典/周易:
   title: 周易
   dynasty: 西周
