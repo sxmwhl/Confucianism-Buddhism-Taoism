@@ -59,7 +59,14 @@ def parse_chapter(html: str, original_only: bool = True) -> tuple[str, str]:
     cleaned = []
     for p in paras:
         text = re.sub(r"<[^>]+>", "", p).strip()
-        text = text.replace("&nbsp;", " ").replace("&lt;", "<").replace("&gt;", ">").replace("&amp;", "&")
+        text = (
+            text.replace("&nbsp;", " ")
+            .replace("&lt;", "<")
+            .replace("&gt;", ">")
+            .replace("&amp;", "&")
+            .replace("&#39;", "'")
+            .replace("&quot;", '"')
+        )
         if "上一章" in text or "下一章" in text:
             continue
         if text.startswith("Powered by"):

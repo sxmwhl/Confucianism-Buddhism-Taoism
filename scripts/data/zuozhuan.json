@@ -1,0 +1,11 @@
+{
+  "title": "春秋左传",
+  "dynasty": "春秋",
+  "author": "周 左丘明 撰；晋 杜预 注；唐 孔颖达 疏；唐 陆德明 音义",
+  "category": "十三经",
+  "source": "Kanripo KR1e0004 四库全书本（公版繁体）→ OpenCC 转换",
+  "repo": "kanripo/KR1e0004",
+  "base_url": "https://raw.githubusercontent.com/kanripo/KR1e0004/master",
+  "output_dir": "儒家经典",
+  "preface": "《春秋左氏传》是解释《春秋》的古文经传，相传为春秋时鲁国左丘明所撰。\n本项目收录杜预《春秋左传集解》、陆德明《经典释文》音义、孔颖达《春秋左传正义》合编本（按四库全书本）。\n\n> 来源说明：本文件由 scripts/fetch_kanripo.py 从 [Kanripo KR1e0004](https://github.com/kanripo/KR1e0004) 抓取后用 OpenCC 繁简转换整理，原文属公版古籍。"
+}

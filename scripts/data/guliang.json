@@ -1,0 +1,11 @@
+{
+  "title": "春秋谷梁传",
+  "dynasty": "战国",
+  "author": "传为战国 鲁人穀梁赤 撰；晋 范宁 集解；唐 陆德明 音义",
+  "category": "十三经",
+  "source": "Kanripo KR1e0008（公版繁体）→ OpenCC 转换",
+  "repo": "kanripo/KR1e0008",
+  "base_url": "https://raw.githubusercontent.com/kanripo/KR1e0008/master",
+  "output_dir": "儒家经典",
+  "preface": "《春秋穀梁传》是解释《春秋》的今文经传之一，传为战国鲁人穀梁赤所撰。\n本项目收录晋范宁《春秋穀梁传集解》本（按四库全书本）。\n\n> 来源说明：本文件由 scripts/fetch_kanripo.py 从 [Kanripo KR1e0008](https://github.com/kanripo/KR1e0008) 抓取后用 OpenCC 繁简转换整理，原文属公版古籍。"
+}

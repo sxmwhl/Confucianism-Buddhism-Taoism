@@ -1,0 +1,11 @@
+{
+  "title": "春秋公羊传",
+  "dynasty": "战国",
+  "author": "传为战国 齐人公羊高 撰；汉 何休 解诂；唐 陆德明 音义",
+  "category": "十三经",
+  "source": "Kanripo KR1e0007 四部丛刊本（公版繁体）→ OpenCC 转换",
+  "repo": "kanripo/KR1e0007",
+  "base_url": "https://raw.githubusercontent.com/kanripo/KR1e0007/master",
+  "output_dir": "儒家经典",
+  "preface": "《春秋公羊传》是解释《春秋》的今文经传，传为战国齐人公羊高所撰，口说相传，至汉景帝时由其玄孙公羊寿与胡母子都写定成书。\n本项目收录汉何休《春秋公羊经传解诂》本（按四部丛刊本）。\n\n> 来源说明：本文件由 scripts/fetch_kanripo.py 从 [Kanripo KR1e0007](https://github.com/kanripo/KR1e0007) 抓取后用 OpenCC 繁简转换整理，原文属公版古籍。"
+}

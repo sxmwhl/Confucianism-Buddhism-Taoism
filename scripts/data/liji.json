@@ -1,0 +1,12 @@
+{
+  "title": "礼记",
+  "dynasty": "西汉",
+  "author": "佚名；西汉 戴圣 编",
+  "category": "五经",
+  "source": "Kanripo KR1d0052（公版繁体）→ OpenCC 转换",
+  "repo": "kanripo/KR1d0052",
+  "base_url": "https://raw.githubusercontent.com/kanripo/KR1d0052/master",
+  "output_dir": "儒家经典",
+  "preface": "《礼记》是战国至秦汉间儒家学者阐释礼义、记录礼制、论述礼学的论文集，列五经之一。\n本项目收录戴圣所编《小戴礼记》49 篇，按传统经文（不含郑玄注、孔颖达疏）整理。\n\n> 来源说明：本文件由 scripts/fetch_kanripo.py 从 [Kanripo KR1d0052](https://github.com/kanripo/KR1d0052) 抓取后用 OpenCC 繁简转换整理，原文属公版古籍。",
+  "notes": "小戴礼记 49 篇；不含郑玄注、孔颖达疏"
+}
