@@ -1,0 +1,481 @@
+# 经典元数据
+# 路径以项目根为基准，使用 POSIX 风格（/ 分隔）
+# 字段：
+#   title: 书名（必填）
+#   dynasty: 朝代
+#   author: 作者/译者/编者
+#   category: 子分类（经/论/蒙学/语录/注疏 等）
+#   source: 底本/参考来源（公版源）
+#   public_domain: 是否公版（仅原文，无现代编辑注译版权）
+#   notes: 备注
+
+佛家经典/经/八大人觉经:
+  title: 八大人觉经
+  dynasty: 后汉
+  author: 安世高 译
+  category: 佛经·小乘
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/经/般若波罗蜜多心经:
+  title: 般若波罗蜜多心经
+  dynasty: 唐
+  author: 玄奘 译
+  category: 佛经·般若
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/经/金刚般若波罗蜜经:
+  title: 金刚般若波罗蜜经
+  dynasty: 后秦
+  author: 鸠摩罗什 译
+  category: 佛经·般若
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/经/四十二章经:
+  title: 四十二章经
+  dynasty: 后汉
+  author: 迦叶摩腾、竺法兰 译
+  category: 佛经·小乘
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/经/文殊师利所说摩诃般若波罗密经:
+  title: 文殊师利所说摩诃般若波罗蜜经
+  dynasty: 梁
+  author: 曼陀罗仙 译
+  category: 佛经·般若
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/经/大方广圆觉修多罗了义经:
+  title: 大方广圆觉修多罗了义经
+  dynasty: 唐
+  author: 佛陀多罗 译
+  category: 佛经·华严
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/经/维摩诘所说经:
+  title: 维摩诘所说经
+  dynasty: 后秦
+  author: 鸠摩罗什 译
+  category: 佛经·般若
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/经/妙法莲华经:
+  title: 妙法莲华经
+  dynasty: 后秦
+  author: 鸠摩罗什 译
+  category: 佛经·法华
+  source: 大正藏（公版）
+  public_domain: true
+  notes: 含道宣《弘传序》
+
+佛家经典/经/大佛顶首楞严经:
+  title: 大佛顶如来密因修证了义诸菩萨万行首楞严经
+  dynasty: 唐
+  author: 般剌密帝 译
+  category: 佛经·密部
+  source: 大正藏（公版）
+  public_domain: true
+  notes: 简称《楞严经》
+
+佛家经典/经/六祖法宝坛经:
+  title: 六祖大师法宝坛经
+  dynasty: 唐
+  author: 法海 编集；德清 勘校
+  category: 佛经·禅宗
+  source: 大正藏（公版）
+  public_domain: true
+  notes: 简称《坛经》
+
+佛家经典/论/信心铭:
+  title: 信心铭
+  dynasty: 隋
+  author: 僧璨大师
+  category: 禅宗·论
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/论/最上乘论:
+  title: 最上乘论
+  dynasty: 唐
+  author: 弘忍禅师
+  category: 禅宗·论
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/论/入道安心要方便法门:
+  title: 入道安心要方便法门
+  dynasty: 唐
+  author: 道信禅师
+  category: 禅宗·论
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/论/菩提达摩大师破相论:
+  title: 菩提达摩大师破相论
+  dynasty: 南北朝
+  author: 菩提达摩
+  category: 禅宗·论
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/论/菩提达摩大师息诤论:
+  title: 菩提达摩大师息诤论
+  dynasty: 梁
+  author: 菩提达摩
+  category: 禅宗·论
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/论/菩提达摩大师血脉论:
+  title: 菩提达摩大师血脉论
+  dynasty: 梁
+  author: 菩提达摩
+  category: 禅宗·论
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/论/菩提达摩大师无心论:
+  title: 菩提达摩大师无心论
+  dynasty: 梁
+  author: 菩提达摩
+  category: 禅宗·论
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/论/顿悟入道要门论:
+  title: 顿悟入道要门论
+  dynasty: 唐
+  author: 慧海（撰）、道印（校）
+  category: 禅宗·论
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/论/顿悟大乘正理诀:
+  title: 顿悟大乘正理诀
+  dynasty: 唐
+  author: 摩诃衍
+  category: 禅宗·论
+  source: 敦煌遗书（公版）
+  public_domain: true
+
+佛家经典/论/黄檗山断际禅师传心法要:
+  title: 黄檗山断际禅师传心法要
+  dynasty: 唐
+  author: 黄檗希运 述；裴休 集
+  category: 禅宗·论
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/论/高丽国普照禅师修心诀:
+  title: 高丽国普照禅师修心诀
+  dynasty: 高丽
+  author: 知讷禅师
+  category: 禅宗·论
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/论/禅宗永嘉集:
+  title: 禅宗永嘉集
+  dynasty: 唐
+  author: 玄觉禅师
+  category: 禅宗·论
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/论/永嘉证道歌:
+  title: 永嘉证道歌
+  dynasty: 唐
+  author: 玄觉禅师
+  category: 禅宗·偈颂
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/论/方寸论:
+  title: 方寸论
+  dynasty: 唐
+  author: 道信示法融
+  category: 禅宗·论
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/论/真心直说:
+  title: 真心直说
+  dynasty: 元
+  author: 知讷禅师
+  category: 禅宗·论
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/论/志公禅师诗颂偈:
+  title: 志公禅师诗颂偈
+  dynasty: 梁
+  author: 宝志禅师
+  category: 禅宗·偈颂
+  source: 大正藏（公版）
+  public_domain: true
+
+佛家经典/论/极微心要口授:
+  title: 极微心要口授
+  dynasty: 当代
+  author: 法王如意宝晋美彭措
+  category: 密宗·口授
+  source: 宁玛巴传承（公版）
+  public_domain: true
+
+佛家经典/论/王凤仪嘉言录:
+  title: 王凤仪嘉言录
+  dynasty: 民国
+  author: 王凤仪
+  category: 善人道·语录
+  source: 民国善书（公版）
+  public_domain: true
+  notes: 王凤仪老善人讲道语录辑录
+
+儒家经典/大学章句:
+  title: 大学章句
+  dynasty: 宋（朱熹注）
+  author: 曾子 撰；朱熹 章句
+  category: 四书
+  source: 四书章句集注（公版）
+  public_domain: true
+
+儒家经典/中庸章句:
+  title: 中庸章句
+  dynasty: 宋（朱熹注）
+  author: 子思 撰；朱熹 章句
+  category: 四书
+  source: 四书章句集注（公版）
+  public_domain: true
+
+儒家经典/论语:
+  title: 论语
+  dynasty: 春秋（孔子）
+  author: 孔子 辑
+  category: 四书
+  source: 十三经注疏（公版）
+  public_domain: true
+
+儒家经典/孟子:
+  title: 孟子
+  dynasty: 战国
+  author: 孟轲 撰
+  category: 四书
+  source: 十三经注疏（公版）
+  public_domain: true
+
+儒家经典/诗经:
+  title: 诗经
+  dynasty: 西周-春秋
+  author: 佚名；孔子 删订
+  category: 五经
+  source: 十三经注疏（公版）
+  public_domain: true
+
+儒家经典/周易:
+  title: 周易
+  dynasty: 西周
+  author: 佚名；孔子 传
+  category: 五经
+  source: 十三经注疏（公版）
+  public_domain: true
+
+儒家经典/传习录:
+  title: 传习录
+  dynasty: 明
+  author: 王阳明 语；徐爱、陆澄 等 辑
+  category: 心学
+  source: 王阳明全集（公版）
+  public_domain: true
+
+儒家经典/王阳明全集:
+  title: 王阳明全集
+  dynasty: 明
+  author: 王阳明
+  category: 心学·文集
+  source: 王阳明全集（公版）
+  public_domain: true
+
+儒家经典/菜根谭:
+  title: 菜根谭
+  dynasty: 明
+  author: 洪应明
+  category: 蒙学·语录
+  source: 菜根谭（公版）
+  public_domain: true
+
+道家经典/道德经:
+  title: 道德经
+  dynasty: 春秋
+  author: 老子
+  category: 道家·原典
+  source: 王弼本（公版）
+  public_domain: true
+
+道家经典/道德经_真本:
+  title: 老子《道德经》真本
+  dynasty: 春秋（陶弘景秘传）
+  author: 老子 原著；陶弘景 秘传；司马承祯 刊正
+  category: 道家·原典
+  source: 道藏（公版）
+  public_domain: true
+
+道家经典/太上老君说常清静经:
+  title: 太上老君说常清静经
+  dynasty: 魏晋
+  author: 太上老君 说；葛玄 序
+  category: 道家·经典
+  source: 道藏（公版）
+  public_domain: true
+  notes: 简称《清静经》
+
+道家经典/太上老君说了心经:
+  title: 太上老君说了心经
+  dynasty: 魏晋
+  author: 太上老君 说
+  category: 道家·经典
+  source: 道藏（公版）
+  public_domain: true
+
+道家经典/太上感应篇:
+  title: 太上感应篇
+  dynasty: 宋
+  author: 李昌龄 注；抱朴子 述
+  category: 道家·劝善
+  source: 道藏（公版）
+  public_domain: true
+
+道家经典/高上玉皇心印妙经:
+  title: 高上玉皇心印妙经
+  dynasty: 魏晋
+  author: 佚名
+  category: 道家·经典
+  source: 道藏（公版）
+  public_domain: true
+  notes: 简称《心印经》
+
+道家经典/黄庭内景经:
+  title: 黄庭内景经
+  dynasty: 晋
+  author: 佚名（传为魏华存）
+  category: 道家·上清
+  source: 道藏（公版）
+  public_domain: true
+
+道家经典/黄庭外景经:
+  title: 黄庭外景经
+  dynasty: 晋
+  author: 佚名
+  category: 道家·上清
+  source: 道藏（公版）
+  public_domain: true
+
+道家经典/阴符经:
+  title: 阴符经
+  dynasty: 上古（黄帝）
+  author: 传黄帝 撰
+  category: 道家·原典
+  source: 道藏（公版）
+  public_domain: true
+
+道家经典/太清元道真经:
+  title: 太清元道真经
+  dynasty: 魏晋
+  author: 佚名
+  category: 道家·经典
+  source: 道藏（公版）
+  public_domain: true
+
+道家经典/太乙金华宗旨:
+  title: 太乙金华宗旨
+  dynasty: 唐
+  author: 吕洞宾（孚佑帝君）著
+  category: 道家·内丹
+  source: 道藏（公版）
+  public_domain: true
+
+道家经典/太乙金华宗旨阐幽问答:
+  title: 金华宗旨阐幽问答
+  dynasty: 清
+  author: 惠觉 撰
+  category: 道家·内丹
+  source: 道藏辑要（公版）
+  public_domain: true
+
+道家经典/吕祖百字碑:
+  title: 吕祖百字碑
+  dynasty: 唐
+  author: 吕洞宾
+  category: 道家·内丹
+  source: 道藏（公版）
+  public_domain: true
+  notes: 又名《先天百字碑》
+
+道家经典/敲爻歌:
+  title: 敲爻歌
+  dynasty: 唐
+  author: 吕岩（吕洞宾）
+  category: 道家·内丹
+  source: 道藏（公版）
+  public_domain: true
+
+道家经典/灵源大道歌:
+  title: 灵源大道歌
+  dynasty: 宋
+  author: 曹文逸真人
+  category: 道家·内丹
+  source: 道藏（公版）
+  public_domain: true
+
+道家经典/坐忘论:
+  title: 坐忘论
+  dynasty: 唐
+  author: 司马承祯
+  category: 道家·内丹
+  source: 道藏（公版）
+  public_domain: true
+
+道家经典/修道真言:
+  title: 修道真言
+  dynasty: 宋
+  author: 白玉蟾祖师
+  category: 道家·内丹
+  source: 道藏（公版）
+  public_domain: true
+
+道家经典/王重阳文集:
+  title: 王重阳文集
+  dynasty: 金
+  author: 王重阳（全真道祖）
+  category: 道家·全真
+  source: 道藏（公版）
+  public_domain: true
+
+道家经典/唱道真言:
+  title: 唱道真言
+  dynasty: 清
+  author: 青华老人 传；鹤臞子 辑
+  category: 道家·内丹
+  source: 道藏辑要（公版）
+  public_domain: true
+
+道家经典/邱长春祖师语录:
+  title: 邱长春祖师语录
+  dynasty: 元
+  author: 丘处机（长春真人）
+  category: 道家·全真
+  source: 道藏（公版）
+  public_domain: true
+
+道家经典/七真传:
+  title: 七真因果传
+  dynasty: 清
+  author: 佚名
+  category: 道家·全真传记
+  source: 道藏辑要（公版）
+  public_domain: true

@@ -1,1 +1,29 @@
-.vscode/settings.json
+# 编辑器/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.bak
+*.orig
+*.rej
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+.pnpm-store/
+
+# 备份与本地笔记（不提交）
+*.local
+drafts/

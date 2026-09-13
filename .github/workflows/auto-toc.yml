@@ -1,0 +1,42 @@
+name: Auto-update TOC
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "佛家经典/**/*.md"
+      - "儒家经典/**/*.md"
+      - "道家经典/**/*.md"
+      - ".github/metadata/books.yml"
+
+jobs:
+  toc:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml
+
+      - name: Regenerate TOC
+        run: python scripts/gen_toc.py
+
+      - name: Commit if changed
+        run: |
+          if [[ -n "$(git status --porcelain 00-总目录.md)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add 00-总目录.md
+            git commit -m "docs: 自动更新 00-总目录.md"
+            git push
+          else
+            echo "00-总目录.md 无变化"
+          fi
