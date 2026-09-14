@@ -1,11 +1,14 @@
 {
   "title": "春秋公羊传",
   "dynasty": "战国",
-  "author": "传为战国 齐人公羊高 撰；汉 何休 解诂；唐 陆德明 音义",
+  "author": "传 战国 齐人公羊高 撰",
   "category": "十三经",
-  "source": "Kanripo KR1e0007 四部丛刊本（公版繁体）→ OpenCC 转换",
-  "repo": "kanripo/KR1e0007",
-  "base_url": "https://raw.githubusercontent.com/kanripo/KR1e0007/master",
+  "source": "guoxue.my 公版（简体）",
+  "base_url": "https://www.guoxue.my/gongyangzhuan/",
+  "index_url": "https://www.guoxue.my/gongyangzhuan/index.html",
+  "index_mode": "multi",
   "output_dir": "儒家经典",
-  "preface": "《春秋公羊传》是解释《春秋》的今文经传，传为战国齐人公羊高所撰，口说相传，至汉景帝时由其玄孙公羊寿与胡母子都写定成书。\n本项目收录汉何休《春秋公羊经传解诂》本（按四部丛刊本）。\n\n> 来源说明：本文件由 scripts/fetch_kanripo.py 从 [Kanripo KR1e0007](https://github.com/kanripo/KR1e0007) 抓取后用 OpenCC 繁简转换整理，原文属公版古籍。"
+  "strip_translation": false,
+  "preface": "《春秋公羊传》是解释《春秋》的今文经传，传为战国齐人公羊高所撰，口说相传，至汉景帝时由其玄孙公羊寿与胡母子都写定成书。\n本项目收录《公羊传》正文（不含汉何休解诂、唐陆德明音义）。\n\n> 来源说明：本文件由 scripts/fetch_guoxue_my.py 从 [guoxue.my 公羊传](https://www.guoxue.my/gongyangzhuan/index.html) 抓取整理。\n> 校对参考：[子夜星网站 春秋三传（繁体，含注疏）](http://www.ziyexing.com/files-5/chunqiu/chunqiu_about.htm)",
+  "notes": "公羊传正文，不含何休解诂、陆德明音义；本项目源文不附现代白话翻译"
 }

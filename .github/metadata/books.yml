@@ -309,36 +309,36 @@
   dynasty: 西汉
   author: 佚名；西汉 戴圣 编
   category: 五经
-  source: Kanripo KR1d0052 公版繁体 → OpenCC 简体
+  source: "guoxue.my 公版（简体）"
   public_domain: true
-  notes: 小戴礼记 49 篇；不含郑玄注、孔颖达疏
+  notes: "小戴礼记 49 篇（不含郑玄注、孔颖达疏；不含现代白话翻译）；校对参考：ziyexing.com 礼记注疏"
 
 儒家经典/春秋左传:
   title: 春秋左传
   dynasty: 春秋
-  author: 周 左丘明 撰；晋 杜预 注；唐 陆德明 音义；唐 孔颖达 疏
+  author: 传 春秋 左丘明 撰
   category: 十三经
-  source: Kanripo KR1e0004 四库全书本公版繁体 → OpenCC 简体
+  source: "guoxue.my 公版（简体）"
   public_domain: true
-  notes: 60 卷注疏合编本
+  notes: "左传正文（不含杜预注、孔颖达疏、陆德明音义；不含现代白话翻译）"
 
 儒家经典/春秋公羊传:
   title: 春秋公羊传
   dynasty: 战国
-  author: 传为战国 齐人公羊高 撰；汉 何休 解诂；唐 陆德明 音义
+  author: 传 战国 齐人公羊高 撰
   category: 十三经
-  source: Kanripo KR1e0007 四部丛刊本公版繁体 → OpenCC 简体
+  source: "guoxue.my 公版（简体）"
   public_domain: true
-  notes: 12 卷何休解诂本
+  notes: "公羊传正文（不含何休解诂、陆德明音义；不含现代白话翻译）"
 
 儒家经典/春秋谷梁传:
   title: 春秋谷梁传
   dynasty: 战国
-  author: 传为战国 鲁人谷梁赤 撰；晋 范宁 集解；唐 陆德明 音义
+  author: 传 战国 鲁人谷梁赤 撰
   category: 十三经
-  source: Kanripo KR1e0008 公版繁体 → OpenCC 简体
+  source: "guoxue.my 公版（简体）"
   public_domain: true
-  notes: 12 卷范宁集解本
+  notes: "谷梁传正文（不含范宁集解、陆德明音义；不含现代白话翻译）"
 
 儒家经典/周易:
   title: 周易

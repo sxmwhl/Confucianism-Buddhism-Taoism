@@ -1,11 +1,14 @@
 {
   "title": "春秋谷梁传",
   "dynasty": "战国",
-  "author": "传为战国 鲁人穀梁赤 撰；晋 范宁 集解；唐 陆德明 音义",
+  "author": "传 战国 鲁人谷梁赤 撰",
   "category": "十三经",
-  "source": "Kanripo KR1e0008（公版繁体）→ OpenCC 转换",
-  "repo": "kanripo/KR1e0008",
-  "base_url": "https://raw.githubusercontent.com/kanripo/KR1e0008/master",
+  "source": "guoxue.my 公版（简体）",
+  "base_url": "https://www.guoxue.my/guliangzhuan/",
+  "index_url": "https://www.guoxue.my/guliangzhuan/index.html",
+  "index_mode": "multi",
   "output_dir": "儒家经典",
-  "preface": "《春秋穀梁传》是解释《春秋》的今文经传之一，传为战国鲁人穀梁赤所撰。\n本项目收录晋范宁《春秋穀梁传集解》本（按四库全书本）。\n\n> 来源说明：本文件由 scripts/fetch_kanripo.py 从 [Kanripo KR1e0008](https://github.com/kanripo/KR1e0008) 抓取后用 OpenCC 繁简转换整理，原文属公版古籍。"
+  "strip_translation": false,
+  "preface": "《春秋谷梁传》是解释《春秋》的今文经传之一，传为战国鲁人谷梁赤所撰。\n本项目收录《谷梁传》正文（不含晋范宁集解、唐陆德明音义）。\n\n> 来源说明：本文件由 scripts/fetch_guoxue_my.py 从 [guoxue.my 谷梁传](https://www.guoxue.my/guliangzhuan/index.html) 抓取整理。\n> 校对参考：[子夜星网站 春秋三传（繁体，含注疏）](http://www.ziyexing.com/files-5/chunqiu/chunqiu_about.htm)",
+  "notes": "谷梁传正文，不含范宁集解、陆德明音义；本项目源文不附现代白话翻译"
 }

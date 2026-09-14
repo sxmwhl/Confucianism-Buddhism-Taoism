@@ -1,11 +1,14 @@
 {
   "title": "春秋左传",
   "dynasty": "春秋",
-  "author": "周 左丘明 撰；晋 杜预 注；唐 孔颖达 疏；唐 陆德明 音义",
+  "author": "传 春秋 左丘明 撰",
   "category": "十三经",
-  "source": "Kanripo KR1e0004 四库全书本（公版繁体）→ OpenCC 转换",
-  "repo": "kanripo/KR1e0004",
-  "base_url": "https://raw.githubusercontent.com/kanripo/KR1e0004/master",
+  "source": "guoxue.my 公版（简体）",
+  "base_url": "https://www.guoxue.my/zuozhuan/",
+  "index_url": "https://www.guoxue.my/zuozhuan/index.html",
+  "index_mode": "multi",
   "output_dir": "儒家经典",
-  "preface": "《春秋左氏传》是解释《春秋》的古文经传，相传为春秋时鲁国左丘明所撰。\n本项目收录杜预《春秋左传集解》、陆德明《经典释文》音义、孔颖达《春秋左传正义》合编本（按四库全书本）。\n\n> 来源说明：本文件由 scripts/fetch_kanripo.py 从 [Kanripo KR1e0004](https://github.com/kanripo/KR1e0004) 抓取后用 OpenCC 繁简转换整理，原文属公版古籍。"
+  "strip_translation": true,
+  "preface": "《春秋左氏传》是解释《春秋》的古文经传，相传为春秋时鲁国左丘明所撰。\n本项目收录《左传》正文（不含杜预注、孔颖达疏、陆德明音义，不含现代白话翻译）。\n\n> 来源说明：本文件由 scripts/fetch_guoxue_my.py 从 [guoxue.my 左传](https://www.guoxue.my/zuozhuan/index.html) 抓取整理，已去除现代白话翻译。\n> 校对参考：[子夜星网站 春秋三传（繁体，含注疏）](http://www.ziyexing.com/files-5/chunqiu/chunqiu_about.htm)",
+  "notes": "左传正文，不含杜预注、孔颖达疏、陆德明音义；不含现代白话翻译"
 }
