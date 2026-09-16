@@ -542,6 +542,213 @@
   category: 道家·全真传记
   source: 道藏辑要（公版）
   public_domain: true
+佛家经典/经/阿弥陀经:
+  title: 佛说阿弥陀经
+  dynasty: 后秦
+  author: 鸠摩罗什 译
+  category: 佛经·净土
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "简称《阿弥陀经》，净土宗根本经典之一"
+
+佛家经典/经/无量寿经:
+  title: 佛说无量寿经
+  dynasty: 曹魏
+  author: 康僧铠 译
+  category: 佛经·净土
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "净土宗根本经典之一，又名《无量清净平等觉经》"
+
+佛家经典/经/观无量寿经:
+  title: 佛说观无量寿佛经
+  dynasty: 刘宋
+  author: 畺良耶舍 译
+  category: 佛经·净土
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "简称《十六观经》，净土宗根本经典之一"
+
+佛家经典/经/普贤行愿品:
+  title: "大方广佛华严经·普贤行愿品"
+  dynasty: 唐
+  author: 般若三藏 译
+  category: 佛经·华严
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "《华严经》最后一品，亦称十大愿王"
+
+佛家经典/经/普门品:
+  title: 观世音菩萨普门品
+  dynasty: 后秦
+  author: 鸠摩罗什 译
+  category: 佛经·法华
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "《妙法莲华经》第二十五品"
+
+佛家经典/经/地藏经:
+  title: 地藏菩萨本愿经
+  dynasty: 唐
+  author: 实叉难陀 译
+  category: 佛经·地藏
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "地藏信仰根本经典"
+
+佛家经典/经/药师经:
+  title: 药师琉璃光如来本愿功德经
+  dynasty: 唐
+  author: 玄奘 译
+  category: 佛经·药师
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "简称《药师经》，药师法门根本经典"
+
+佛家经典/经/佛遗教经:
+  title: 佛垂般涅槃略说教诫经
+  dynasty: 后秦
+  author: 鸠摩罗什 译
+  category: 佛经·遗教
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "简称《佛遗教经》，佛陀涅槃前最后教诫"
+
+佛家经典/经/盂兰盆经:
+  title: 佛说盂兰盆经
+  dynasty: 西晋
+  author: 竺法护 译
+  category: 佛经·盂兰
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "佛教盂兰盆节来源，目连救母故事"
+
+佛家经典/经/百喻经:
+  title: 百喻经
+  dynasty: 南齐
+  author: 求那毗地 译
+  category: 佛经·譬喻
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "佛教寓言经典，含一百个譬喻故事"
+
+佛家经典/经/父母恩重难报经:
+  title: 佛说父母恩重难报经
+  dynasty: 后秦
+  author: 鸠摩罗什 译
+  category: 佛经·孝道
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "佛教孝道经典"
+
+佛家经典/论/大乘起信论:
+  title: 大乘起信论
+  dynasty: 南朝
+  author: 真谛 译
+  category: 佛经·论
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "大乘佛教入门论典，作者相传为马鸣菩萨"
+
+佛家经典/论/五灯会元:
+  title: 五灯会元
+  dynasty: 宋
+  author: 普济
+  category: 禅宗·语录
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "禅宗五灯合集，记录禅宗传承法脉"
+
+佛家经典/论/碧岩录:
+  title: 碧岩录
+  dynasty: 宋
+  author: 圆悟克勤
+  category: 禅宗·公案
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "禅宗第一书"
+
+佛家经典/论/无门关:
+  title: 无门关
+  dynasty: 宋
+  author: 无门慧开
+  category: 禅宗·公案
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "禅宗四十八则公案"
+
+佛家经典/论/从容录:
+  title: 从容录
+  dynasty: 宋
+  author: 万松行秀
+  category: 禅宗·公案
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "与《碧岩录》《无门关》并称禅门三书"
+
+佛家经典/论/临济录:
+  title: 临济录
+  dynasty: 唐
+  author: 义玄禅师
+  category: 禅宗·语录
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "临济宗根本经典"
+
+佛家经典/论/赵州录:
+  title: 赵州录
+  dynasty: 唐
+  author: 从谂禅师
+  category: 禅宗·语录
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "赵州从谂禅师语录"
+
+佛家经典/论/马祖语录:
+  title: 马祖语录
+  dynasty: 唐
+  author: 道一禅师
+  category: 禅宗·语录
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "马祖道一禅师语录，洪州宗开创者"
+
+佛家经典/论/云门录:
+  title: 云门录
+  dynasty: 五代
+  author: 文偃禅师
+  category: 禅宗·语录
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "云门文偃禅师广录，云门宗根本经典"
+
+佛家经典/论/洞山语录:
+  title: 洞山语录
+  dynasty: 唐
+  author: 良价禅师
+  category: 禅宗·语录
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "洞山良价禅师语录，曹洞宗开创者"
+
+佛家经典/论/曹洞录:
+  title: 曹洞录
+  dynasty: 唐宋
+  author: 本寂禅师 等
+  category: 禅宗·语录
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "曹洞宗历代祖师语录选粹"
+
+佛家经典/论/大慧普觉禅师语录:
+  title: 大慧普觉禅师语录
+  dynasty: 宋
+  author: 蕴闻 等编
+  category: 禅宗·语录
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "看话禅代表，斥默照禅之误"
+
 道家经典/庄子:
   title: 庄子
   dynasty: 战国
