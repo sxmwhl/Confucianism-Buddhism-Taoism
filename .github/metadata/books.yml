@@ -542,3 +542,147 @@
   category: 道家·全真传记
   source: 道藏辑要（公版）
   public_domain: true
+道家经典/庄子:
+  title: 庄子
+  dynasty: 战国
+  author: 庄周
+  category: 道家·原典
+  source: 郭象注本（公版）
+  public_domain: true
+  notes: "又名《南华真经》，道家根本经典之一"
+
+道家经典/列子:
+  title: 列子
+  dynasty: 战国
+  author: 列御寇
+  category: 道家·原典
+  source: 张湛注本（公版）
+  public_domain: true
+  notes: "又名《冲虚真经》，道家根本经典之一"
+
+道家经典/文子:
+  title: 文子
+  dynasty: 春秋-战国
+  author: "辛钘（一说文种）"
+  category: 道家·原典
+  source: 道藏（公版）
+  public_domain: true
+  notes: "又名《通玄真经》，道家原典之一"
+
+道家经典/管子:
+  title: "管子·心术诸篇"
+  dynasty: 春秋（战国）
+  author: 管仲（托名）
+  category: 道家·原典
+  source: 道藏（公版）
+  public_domain: true
+  notes: "《管子》中含道家思想的篇章"
+
+道家经典/淮南子:
+  title: 淮南子
+  dynasty: 西汉
+  author: 刘安 等
+  category: 道家·杂家
+  source: 道藏（公版）
+  public_domain: true
+  notes: "又名《鸿烈》，西汉道家思想巨著"
+
+道家经典/抱朴子:
+  title: 抱朴子·内篇
+  dynasty: 晋
+  author: 葛洪
+  category: 道家·原典
+  source: 道藏（公版）
+  public_domain: true
+  notes: "葛洪道学巨著内篇"
+
+道家经典/玄珠录:
+  title: 玄珠录
+  dynasty: 唐
+  author: 王玄览
+  category: 道家·语录
+  source: 道藏（公版）
+  public_domain: true
+  notes: "王玄览语录，唐代道教重玄学代表著作"
+
+道家经典/无能子:
+  title: 无能子
+  dynasty: 唐
+  author: 佚名
+  category: 道家·原典
+  source: 道藏（公版）
+  public_domain: true
+  notes: "唐代道家重要著作"
+
+道家经典/化书:
+  title: 化书
+  dynasty: 五代
+  author: 谭峭
+  category: 道家·原典
+  source: 道藏（公版）
+  public_domain: true
+  notes: "又名《谭子化书》"
+
+道家经典/周易参同契:
+  title: 周易参同契
+  dynasty: 东汉
+  author: 魏伯阳
+  category: 道家·丹经
+  source: 道藏（公版）
+  public_domain: true
+  notes: "万古丹经王，被誉为丹经之祖"
+
+道家经典/入药镜:
+  title: 入药镜
+  dynasty: 唐
+  author: 崔希范
+  category: 道家·内丹
+  source: 道藏（公版）
+  public_domain: true
+  notes: "唐代内丹重要经典，与《悟真篇》齐名"
+
+道家经典/悟真篇:
+  title: 悟真篇
+  dynasty: 宋
+  author: 张伯端
+  category: 道家·内丹
+  source: 道藏（公版）
+  public_domain: true
+  notes: "宋代内丹四大著之一，与《参同契》并称"
+
+道家经典/黄帝阴符经疏:
+  title: 黄帝阴符经疏
+  dynasty: 唐
+  author: 李筌
+  category: 道家·注疏
+  source: 道藏（公版）
+  public_domain: true
+  notes: "李筌所撰《阴符经》著名注疏"
+
+道家经典/老子道德经河上公章句:
+  title: 老子道德经河上公章句
+  dynasty: 汉
+  author: 河上公
+  category: 道家·注疏
+  source: 道藏（公版）
+  public_domain: true
+  notes: "又名《河上公注》，现存最早的《老子》注本之一"
+
+道家经典/老子想尔注:
+  title: 老子想尔注
+  dynasty: 东汉
+  author: 张道陵
+  category: 道家·注疏
+  source: 道藏（公版）
+  public_domain: true
+  notes: "又名《老子道德经想尔训》，早期道教最重要的《老子》注本之一"
+
+道家经典/养性延命录:
+  title: 养性延命录
+  dynasty: 梁
+  author: 陶弘景
+  category: 道家·养生
+  source: 道藏（公版）
+  public_domain: true
+  notes: "陶弘景所辑养生学巨著，汇集魏晋以前养生要论"
+
