@@ -237,7 +237,7 @@
   public_domain: true
   notes: 王凤仪老善人讲道语录辑录
 
-儒家经典/大学章句:
+儒家经典/四书/大学章句:
   title: 大学章句
   dynasty: 宋（朱熹注）
   author: 曾子 撰；朱熹 章句
@@ -245,7 +245,7 @@
   source: 四书章句集注（公版）
   public_domain: true
 
-儒家经典/中庸章句:
+儒家经典/四书/中庸章句:
   title: 中庸章句
   dynasty: 宋（朱熹注）
   author: 子思 撰；朱熹 章句
@@ -253,7 +253,7 @@
   source: 四书章句集注（公版）
   public_domain: true
 
-儒家经典/论语:
+儒家经典/四书/论语:
   title: 论语
   dynasty: 春秋（孔子）
   author: 孔子 辑
@@ -261,7 +261,7 @@
   source: 十三经注疏（公版）
   public_domain: true
 
-儒家经典/孟子:
+儒家经典/四书/孟子:
   title: 孟子
   dynasty: 战国
   author: 孟轲 撰
@@ -269,7 +269,7 @@
   source: 十三经注疏（公版）
   public_domain: true
 
-儒家经典/诗经:
+儒家经典/五经/诗经:
   title: 诗经
   dynasty: 西周-春秋
   author: 佚名；孔子 删订
@@ -277,7 +277,7 @@
   source: 十三经注疏（公版）
   public_domain: true
 
-儒家经典/尚书:
+儒家经典/五经/尚书:
   title: 尚书
   dynasty: 上古-春秋
   author: 佚名；孔子 删订
@@ -286,7 +286,7 @@
   public_domain: true
   notes: 含今文尚书与古文尚书合编本，按虞书、夏书、商书、周书分卷
 
-儒家经典/孝经:
+儒家经典/十三经/孝经:
   title: 孝经
   dynasty: 春秋
   author: 孔子 撰
@@ -295,7 +295,7 @@
   public_domain: true
   notes: 十八章，列十三经之一
 
-儒家经典/尔雅:
+儒家经典/十三经/尔雅:
   title: 尔雅
   dynasty: 战国-西汉
   author: 佚名；西晋 郭璞 注；北宋 邢昺 疏
@@ -304,7 +304,7 @@
   public_domain: true
   notes: 我国第一部按义类编排的综合性辞书
 
-儒家经典/礼记:
+儒家经典/五经/礼记:
   title: 礼记
   dynasty: 西汉
   author: 佚名；西汉 戴圣 编
@@ -313,7 +313,7 @@
   public_domain: true
   notes: "小戴礼记 49 篇（不含郑玄注、孔颖达疏；不含现代白话翻译）；校对参考：ziyexing.com 礼记注疏"
 
-儒家经典/春秋左传:
+儒家经典/十三经/春秋左传:
   title: 春秋左传
   dynasty: 春秋
   author: 传 春秋 左丘明 撰
@@ -322,7 +322,7 @@
   public_domain: true
   notes: "左传正文（不含杜预注、孔颖达疏、陆德明音义；不含现代白话翻译）"
 
-儒家经典/春秋公羊传:
+儒家经典/十三经/春秋公羊传:
   title: 春秋公羊传
   dynasty: 战国
   author: 传 战国 齐人公羊高 撰
@@ -331,7 +331,7 @@
   public_domain: true
   notes: "公羊传正文（不含何休解诂、陆德明音义；不含现代白话翻译）"
 
-儒家经典/春秋谷梁传:
+儒家经典/十三经/春秋谷梁传:
   title: 春秋谷梁传
   dynasty: 战国
   author: 传 战国 鲁人谷梁赤 撰
@@ -340,7 +340,7 @@
   public_domain: true
   notes: "谷梁传正文（不含范宁集解、陆德明音义；不含现代白话翻译）"
 
-儒家经典/周易:
+儒家经典/五经/周易:
   title: 周易
   dynasty: 西周
   author: 佚名；孔子 传
@@ -348,7 +348,7 @@
   source: 十三经注疏（公版）
   public_domain: true
 
-儒家经典/传习录:
+儒家经典/心学/传习录:
   title: 传习录
   dynasty: 明
   author: 王阳明 语；徐爱、陆澄 等 辑
@@ -356,7 +356,7 @@
   source: 王阳明全集（公版）
   public_domain: true
 
-儒家经典/王阳明全集:
+儒家经典/心学/王阳明全集:
   title: 王阳明全集
   dynasty: 明
   author: 王阳明
@@ -364,7 +364,7 @@
   source: 王阳明全集（公版）
   public_domain: true
 
-儒家经典/菜根谭:
+儒家经典/蒙学/菜根谭:
   title: 菜根谭
   dynasty: 明
   author: 洪应明
@@ -372,7 +372,7 @@
   source: 菜根谭（公版）
   public_domain: true
 
-道家经典/道德经:
+道家经典/原典/道德经:
   title: 道德经
   dynasty: 春秋
   author: 老子
@@ -380,7 +380,7 @@
   source: 王弼本（公版）
   public_domain: true
 
-道家经典/道德经_真本:
+道家经典/原典/道德经_真本:
   title: 老子《道德经》真本
   dynasty: 春秋（陶弘景秘传）
   author: 老子 原著；陶弘景 秘传；司马承祯 刊正
@@ -388,7 +388,7 @@
   source: 道藏（公版）
   public_domain: true
 
-道家经典/太上老君说常清静经:
+道家经典/道藏经/太上老君说常清静经:
   title: 太上老君说常清静经
   dynasty: 魏晋
   author: 太上老君 说；葛玄 序
@@ -397,7 +397,7 @@
   public_domain: true
   notes: 简称《清静经》
 
-道家经典/太上老君说了心经:
+道家经典/道藏经/太上老君说了心经:
   title: 太上老君说了心经
   dynasty: 魏晋
   author: 太上老君 说
@@ -405,7 +405,7 @@
   source: 道藏（公版）
   public_domain: true
 
-道家经典/太上感应篇:
+道家经典/道藏经/太上感应篇:
   title: 太上感应篇
   dynasty: 宋
   author: 李昌龄 注；抱朴子 述
@@ -413,7 +413,7 @@
   source: 道藏（公版）
   public_domain: true
 
-道家经典/高上玉皇心印妙经:
+道家经典/道藏经/高上玉皇心印妙经:
   title: 高上玉皇心印妙经
   dynasty: 魏晋
   author: 佚名
@@ -422,7 +422,7 @@
   public_domain: true
   notes: 简称《心印经》
 
-道家经典/黄庭内景经:
+道家经典/上清/黄庭内景经:
   title: 黄庭内景经
   dynasty: 晋
   author: 佚名（传为魏华存）
@@ -430,7 +430,7 @@
   source: 道藏（公版）
   public_domain: true
 
-道家经典/黄庭外景经:
+道家经典/上清/黄庭外景经:
   title: 黄庭外景经
   dynasty: 晋
   author: 佚名
@@ -438,7 +438,7 @@
   source: 道藏（公版）
   public_domain: true
 
-道家经典/阴符经:
+道家经典/阴符/阴符经:
   title: 阴符经
   dynasty: 上古（黄帝）
   author: 传黄帝 撰
@@ -446,7 +446,7 @@
   source: 道藏（公版）
   public_domain: true
 
-道家经典/太清元道真经:
+道家经典/道藏经/太清元道真经:
   title: 太清元道真经
   dynasty: 魏晋
   author: 佚名
@@ -454,7 +454,7 @@
   source: 道藏（公版）
   public_domain: true
 
-道家经典/太乙金华宗旨:
+道家经典/内丹/太乙金华宗旨:
   title: 太乙金华宗旨
   dynasty: 唐
   author: 吕洞宾（孚佑帝君）著
@@ -462,7 +462,7 @@
   source: 道藏（公版）
   public_domain: true
 
-道家经典/太乙金华宗旨阐幽问答:
+道家经典/内丹/太乙金华宗旨阐幽问答:
   title: 金华宗旨阐幽问答
   dynasty: 清
   author: 惠觉 撰
@@ -470,7 +470,7 @@
   source: 道藏辑要（公版）
   public_domain: true
 
-道家经典/吕祖百字碑:
+道家经典/内丹/吕祖百字碑:
   title: 吕祖百字碑
   dynasty: 唐
   author: 吕洞宾
@@ -479,7 +479,7 @@
   public_domain: true
   notes: 又名《先天百字碑》
 
-道家经典/敲爻歌:
+道家经典/内丹/敲爻歌:
   title: 敲爻歌
   dynasty: 唐
   author: 吕岩（吕洞宾）
@@ -487,7 +487,7 @@
   source: 道藏（公版）
   public_domain: true
 
-道家经典/灵源大道歌:
+道家经典/内丹/灵源大道歌:
   title: 灵源大道歌
   dynasty: 宋
   author: 曹文逸真人
@@ -495,7 +495,7 @@
   source: 道藏（公版）
   public_domain: true
 
-道家经典/坐忘论:
+道家经典/内丹/坐忘论:
   title: 坐忘论
   dynasty: 唐
   author: 司马承祯
@@ -503,7 +503,7 @@
   source: 道藏（公版）
   public_domain: true
 
-道家经典/修道真言:
+道家经典/内丹/修道真言:
   title: 修道真言
   dynasty: 宋
   author: 白玉蟾祖师
@@ -511,7 +511,7 @@
   source: 道藏（公版）
   public_domain: true
 
-道家经典/王重阳文集:
+道家经典/全真/王重阳文集:
   title: 王重阳文集
   dynasty: 金
   author: 王重阳（全真道祖）
@@ -519,7 +519,7 @@
   source: 道藏（公版）
   public_domain: true
 
-道家经典/唱道真言:
+道家经典/内丹/唱道真言:
   title: 唱道真言
   dynasty: 清
   author: 青华老人 传；鹤臞子 辑
@@ -527,7 +527,7 @@
   source: 道藏辑要（公版）
   public_domain: true
 
-道家经典/邱长春祖师语录:
+道家经典/全真/邱长春祖师语录:
   title: 邱长春祖师语录
   dynasty: 元
   author: 丘处机（长春真人）
@@ -535,7 +535,7 @@
   source: 道藏（公版）
   public_domain: true
 
-道家经典/七真传:
+道家经典/全真/七真传:
   title: 七真因果传
   dynasty: 清
   author: 佚名
@@ -749,7 +749,7 @@
   public_domain: true
   notes: "看话禅代表，斥默照禅之误"
 
-道家经典/庄子:
+道家经典/原典/庄子:
   title: 庄子
   dynasty: 战国
   author: 庄周
@@ -758,7 +758,7 @@
   public_domain: true
   notes: "又名《南华真经》，道家根本经典之一"
 
-道家经典/列子:
+道家经典/原典/列子:
   title: 列子
   dynasty: 战国
   author: 列御寇
@@ -767,7 +767,7 @@
   public_domain: true
   notes: "又名《冲虚真经》，道家根本经典之一"
 
-道家经典/文子:
+道家经典/原典/文子:
   title: 文子
   dynasty: 春秋-战国
   author: "辛钘（一说文种）"
@@ -776,7 +776,7 @@
   public_domain: true
   notes: "又名《通玄真经》，道家原典之一"
 
-道家经典/管子:
+道家经典/原典/管子:
   title: "管子·心术诸篇"
   dynasty: 春秋（战国）
   author: 管仲（托名）
@@ -785,7 +785,7 @@
   public_domain: true
   notes: "《管子》中含道家思想的篇章"
 
-道家经典/淮南子:
+道家经典/原典/淮南子:
   title: 淮南子
   dynasty: 西汉
   author: 刘安 等
@@ -794,7 +794,7 @@
   public_domain: true
   notes: "又名《鸿烈》，西汉道家思想巨著"
 
-道家经典/抱朴子:
+道家经典/抱朴/抱朴子:
   title: 抱朴子·内篇
   dynasty: 晋
   author: 葛洪
@@ -803,7 +803,7 @@
   public_domain: true
   notes: "葛洪道学巨著内篇"
 
-道家经典/玄珠录:
+道家经典/玄学/玄珠录:
   title: 玄珠录
   dynasty: 唐
   author: 王玄览
@@ -812,7 +812,7 @@
   public_domain: true
   notes: "王玄览语录，唐代道教重玄学代表著作"
 
-道家经典/无能子:
+道家经典/玄学/无能子:
   title: 无能子
   dynasty: 唐
   author: 佚名
@@ -821,7 +821,7 @@
   public_domain: true
   notes: "唐代道家重要著作"
 
-道家经典/化书:
+道家经典/玄学/化书:
   title: 化书
   dynasty: 五代
   author: 谭峭
@@ -830,7 +830,7 @@
   public_domain: true
   notes: "又名《谭子化书》"
 
-道家经典/周易参同契:
+道家经典/内丹/周易参同契:
   title: 周易参同契
   dynasty: 东汉
   author: 魏伯阳
@@ -839,7 +839,7 @@
   public_domain: true
   notes: "万古丹经王，被誉为丹经之祖"
 
-道家经典/入药镜:
+道家经典/内丹/入药镜:
   title: 入药镜
   dynasty: 唐
   author: 崔希范
@@ -848,7 +848,7 @@
   public_domain: true
   notes: "唐代内丹重要经典，与《悟真篇》齐名"
 
-道家经典/悟真篇:
+道家经典/内丹/悟真篇:
   title: 悟真篇
   dynasty: 宋
   author: 张伯端
@@ -857,7 +857,7 @@
   public_domain: true
   notes: "宋代内丹四大著之一，与《参同契》并称"
 
-道家经典/黄帝阴符经疏:
+道家经典/注疏/黄帝阴符经疏:
   title: 黄帝阴符经疏
   dynasty: 唐
   author: 李筌
@@ -866,7 +866,7 @@
   public_domain: true
   notes: "李筌所撰《阴符经》著名注疏"
 
-道家经典/老子道德经河上公章句:
+道家经典/注疏/老子道德经河上公章句:
   title: 老子道德经河上公章句
   dynasty: 汉
   author: 河上公
@@ -875,7 +875,7 @@
   public_domain: true
   notes: "又名《河上公注》，现存最早的《老子》注本之一"
 
-道家经典/老子想尔注:
+道家经典/注疏/老子想尔注:
   title: 老子想尔注
   dynasty: 东汉
   author: 张道陵
@@ -884,7 +884,7 @@
   public_domain: true
   notes: "又名《老子道德经想尔训》，早期道教最重要的《老子》注本之一"
 
-道家经典/养性延命录:
+道家经典/全真/养性延命录:
   title: 养性延命录
   dynasty: 梁
   author: 陶弘景
@@ -892,4 +892,95 @@
   source: 道藏（公版）
   public_domain: true
   notes: "陶弘景所辑养生学巨著，汇集魏晋以前养生要论"
+
+佛家经典/经/四分律:
+  title: 四分律
+  dynasty: 后秦
+  author: 佛陀耶舍 共竺佛念 译
+  category: 佛经·律
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "中国佛教根本律藏，全60卷，南山律宗所依。"
+
+佛家经典/经/法句经:
+  title: 法句经
+  dynasty: 吴
+  author: 维祇难 等 译
+  category: 佛经·法句
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "佛教格言诗集，鸠摩罗什亦有节译。"
+
+佛家经典/经/杂阿含经:
+  title: 杂阿含经
+  dynasty: 刘宋
+  author: 求那跋陀罗 译
+  category: 佛经·阿含
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "四阿含之一，收录短小经典与原始教法，最接近佛陀本怀。"
+
+佛家经典/经/增一阿含经:
+  title: 增一阿含经
+  dynasty: 前秦
+  author: 昙摩难提 译
+  category: 佛经·阿含
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "四阿含之一，以法数增一之法分类经文。"
+
+佛家经典/论/瑜伽师地论:
+  title: 瑜伽师地论
+  dynasty: 唐
+  author: 玄奘 译
+  category: 佛经·唯识
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "弥勒菩萨说，唯识学根本论，全100卷。"
+
+佛家经典/论/成唯识论:
+  title: 成唯识论
+  dynasty: 唐
+  author: 玄奘 译 护法等 释
+  category: 佛经·唯识
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "世亲菩萨造，十大论师释，唯识学集大成之作。"
+
+佛家经典/论/百法明门论:
+  title: 百法明门论
+  dynasty: 唐
+  author: 玄奘 译
+  category: 佛经·唯识
+  source: 大正藏（公版）
+  public_domain: true
+  notes: "天亲菩萨造，略释瑜伽师地论·本地分中名数法。"
+
+儒家经典/十三经/周礼:
+  title: 周礼
+  dynasty: 战国
+  author: 佚名
+  category: 十三经
+  source: guoxue.my 公版（简体）
+  public_domain: true
+  notes: "十三经之一，记载周代官制与王政纲领。"
+
+儒家经典/十三经/仪礼:
+  title: 仪礼
+  dynasty: 战国-西汉
+  author: 佚名
+  category: 十三经
+  source: guoxue.my 公版（简体）
+  public_domain: true
+  notes: "十三经之一，记载冠婚丧祭等士礼十七篇。"
+
+儒家经典/十三经/学记:
+  title: 学记
+  dynasty: 战国-西汉
+  author: 佚名（《礼记》之一篇）
+  category: 十三经
+  source: guoxue.my 公版（简体）
+  public_domain: true
+  notes: "《礼记》之一篇，世界最早成体系的教育学论文。"
+
 

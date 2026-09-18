@@ -21,6 +21,32 @@ CATEGORY_TITLES = {
     "道家经典": "道家经典",
 }
 
+# 子目录显示顺序（数值越小越靠前）；未列出的子目录按字母序排在后
+SUBCATEGORY_ORDER = {
+    "佛家经典": {
+        "经": 1,
+        "论": 2,
+    },
+    "儒家经典": {
+        "四书": 1,
+        "五经": 2,
+        "十三经": 3,
+        "心学": 4,
+        "蒙学": 5,
+    },
+    "道家经典": {
+        "原典": 1,
+        "玄学": 2,
+        "道藏经": 3,
+        "上清": 4,
+        "阴符": 5,
+        "内丹": 6,
+        "注疏": 7,
+        "抱朴": 8,
+        "全真": 9,
+    },
+}
+
 
 def parse_frontmatter(text: str) -> dict | None:
     """提取文件头部的 YAML front-matter，不依赖 PyYAML 完整解析，简单行解析即可。"""
@@ -99,7 +125,9 @@ def render() -> str:
     for top, subs in data.items():
         lines.append(f"## {CATEGORY_TITLES[top]}")
         lines.append("")
-        for sub in sorted(subs.keys()):
+        # 按 SUBCATEGORY_ORDER 对子目录排序；未列出的子目录按字母序排在后
+        order_map = SUBCATEGORY_ORDER.get(top, {})
+        for sub in sorted(subs.keys(), key=lambda s: (order_map.get(s, 999), s)):
             lines.append(f"### {sub}")
             lines.append("")
             lines.append("| 书名 | 朝代 | 作者/译者 | 类别 | 路径 |")
